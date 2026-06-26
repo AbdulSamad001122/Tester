@@ -19,12 +19,5 @@
     "title": "Return response format",
     "description": "Ensure the JSON response includes both the user ID and a status field (e.g., {\"status\": \"success\", \"userId\": \"12345\"}).",
     "status": "todo"
-  },
-  {
-    "index": 4,
-    "id": "cmquvcqax000w103s49smr2z3",
-    "title": "Write unit test for user ID route",
-    "description": "Add a test that calls the new route, verifies that it responds with a 200 status, and checks that the response JSON contains the expected keys and a valid user ID string.",
-    "status": "todo"
   }
 ]
