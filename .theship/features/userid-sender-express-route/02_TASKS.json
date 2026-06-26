@@ -1,0 +1,30 @@
+[
+  {
+    "index": 1,
+    "id": "cmquvcpe4000t103s4l1mn3uo",
+    "title": "Add new Express route for user ID",
+    "description": "Create a new endpoint (e.g., GET /api/user-id) in the Express server that will be used to retrieve the user ID.",
+    "status": "todo"
+  },
+  {
+    "index": 2,
+    "id": "cmquvcq50000u103si4mjj0rs",
+    "title": "Implement route handler logic",
+    "description": "In the route handler, construct a hard‑coded user ID value (e.g., a static string or number) and return it in a JSON response along with a success status.",
+    "status": "todo"
+  },
+  {
+    "index": 3,
+    "id": "cmquvcq83000v103seqvcuz8o",
+    "title": "Return response format",
+    "description": "Ensure the JSON response includes both the user ID and a status field (e.g., {\"status\": \"success\", \"userId\": \"12345\"}).",
+    "status": "todo"
+  },
+  {
+    "index": 4,
+    "id": "cmquvcqax000w103s49smr2z3",
+    "title": "Write unit test for user ID route",
+    "description": "Add a test that calls the new route, verifies that it responds with a 200 status, and checks that the response JSON contains the expected keys and a valid user ID string.",
+    "status": "todo"
+  }
+]
